@@ -53,7 +53,7 @@ excel-llm-bridge/
 
 1. **Clone the repo**
    ```
-   git clone https://github.com/ilia20-8/excel-llm-bridge.git
+   git clone https://github.com/Ilia-Tsituk/excel-llm-bridge.git
    cd excel-llm-bridge
    ```
 
